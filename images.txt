@@ -1,3 +1,4 @@
 python:alpine3.19
 redis:7
 postgres:15
+apache/superset:0f60701
