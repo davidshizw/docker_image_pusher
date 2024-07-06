@@ -1,1 +1,3 @@
 python:alpine3.19
+redis:7
+postgres:15
