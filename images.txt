@@ -3,3 +3,4 @@ redis:7
 postgres:15
 apache/superset:0f60701-dev
 davidshizw/simpo-superset:v1
+metabase/metabase:v0.54.x
